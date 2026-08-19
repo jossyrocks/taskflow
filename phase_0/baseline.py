@@ -1,4 +1,4 @@
-from workday import calculate_workday
+from app.workday import calculate_workday
 
 
 def get_valid_hours():
